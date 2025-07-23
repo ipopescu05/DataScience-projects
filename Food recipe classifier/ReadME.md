@@ -15,11 +15,11 @@ This project uses natural language processing (NLP) techniques to classify recip
 ## Data Sources
 
 ### RecipeNLG Dataset
-This project uses the [RecipeNLG dataset](https://www.kaggle.com/datasets/wisekim/recipenlg) available on Kaggle.  
+This project uses the [RecipeNLG dataset](https://www.kaggle.com/datasets/saldenisov/recipenlg) available on Kaggle.  
 Due to licensing and size limitations, the dataset is **not included in this repository**.
 
 **To use this project:**
-1. Go to the [RecipeNLG dataset page](https://www.kaggle.com/datasets/wisekim/recipenlg).
+1. Go to the [RecipeNLG dataset page](https://www.kaggle.com/datasets/saldenisov/recipenlg).
 2. Download the dataset manually (`recipenlg.zip`).
 3. Extract the relevant JSON file(s) and place them in your working directory.
 
